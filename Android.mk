@@ -11,7 +11,7 @@ LOCAL_SRC_FILES += \
 
 LOCAL_AIDL_INCLUDES := packages/apps/SmartCardService/openmobileapi/src/org/simalliance/openmobileapi/service
 
-LOCAL_PACKAGE_NAME := SmartcardService
+LOCAL_PACKAGE_NAME := SmartcardServiceSample
 LOCAL_CERTIFICATE := platform
 
 LOCAL_JAVA_LIBRARIES := core framework
